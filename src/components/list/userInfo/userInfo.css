@@ -2,6 +2,9 @@
   padding: 20px;
   display: flex;
   align-items: center;
+  color: #00ff7f;
+  font-family: "Consolas", monospace;
+  background-color: rgba(0, 10, 5, 0.4);
   justify-content: space-between;
 
   .user {
